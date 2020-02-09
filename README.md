@@ -8,8 +8,8 @@
 
 ## Python module: Plotting and Programming in Python
 
-- **Setup**: Have you installed Anaconda yet? See[setup instructions here](https://swcarpentry.github.io/python-novice-gapminder/setup/).
-- **Data for Python lessons**: Please download and unzip the file in [this folder](2020-02-10-software-carpentry": https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip)
+- **Setup**: Have you installed Anaconda yet? See [setup instructions here](https://swcarpentry.github.io/python-novice-gapminder/setup/).
+- **Data for Python lessons**: Please download and unzip the file in [this folder](https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip)
 
 ## Jupyter Notebooks in this repository
 
